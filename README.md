@@ -15,13 +15,16 @@ MAIN FEATURES
 SERIAL COMMANDS
 
 It sends the data in 115200 baud rate
+
 Speed Commands: s-(any number between 0-180)
-Eg. s90
-Eg. s116
+
+- Eg. s90
+- Eg. s116
 
 RPMs Commands: r-(any number between 0-8000)
-Eg. r5000
-Eg. r2549
+
+- Eg. r5000
+- Eg. r2549
 
 To replicate this project, you should have these:
 - Arduino Uno (Most of them should work, its just the one I used.)
