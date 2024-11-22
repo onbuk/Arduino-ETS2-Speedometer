@@ -18,6 +18,21 @@ An Arduino-based custom speedometer and tachometer designed for **Euro Truck Sim
 
 ---
 
+## Preview
+### Speedometer and Tachometer
+![Speedometer Preview](images/speedometer.jpg)  
+*A 3D-printed custom speedometer with a printed background design.*  
+
+### Desktop Application
+![App Preview](images/app.jpg)  
+*A simple desktop application for managing telemetry and serial communication.*  
+
+### Wiring Diagram
+![Wiring Diagram](images/wiring.jpg)  
+*Detailed wiring diagram for connecting the Arduino and servos.*
+
+---
+
 ## Serial Commands
 Data is transmitted at a baud rate of **115200**. The following commands control the speed and RPM display:
 
