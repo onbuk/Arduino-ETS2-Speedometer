@@ -1,6 +1,6 @@
 # Arduino ETS2 Speedometer and Tachometer
 
-An Arduino-based custom speedometer and tachometer designed for **Euro Truck Simulator 2** and **American Truck Simulator**. This project utilizes data from [Funbit's telemetry server](https://github.com/Funbit/ets2-telemetry-server) to display in-game speed and RPM values on physical gauges.
+An Arduino-based custom speedometer and tachometer designed for **Euro Truck Simulator 2** and **American Truck Simulator**. This project utilizes data from [Funbit's telemetry server](https://github.com/Funbit/ets2-telemetry-server) to display in-game speed and RPM values on physical gauges. You can find the app exe in the app/dist folder.
 
 ---
 
